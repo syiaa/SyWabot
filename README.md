@@ -5,7 +5,9 @@
 > pkg install git -y
 
 > git clone https://github.com/Syiaa/SyWabot
+
 > cd SyWabot
+
 > unzip SyWabot.zip
 
 > cd SyWabot
