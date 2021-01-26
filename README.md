@@ -1,5 +1,5 @@
 # TOOLS Whatsapp BOT
-#LANGSUNG AJA KE TUTOR NYA
+# LANGSUNG AJA KE TUTOR NYA
 > pkg update && pkg upgrade
 
 > pkg install git -y
